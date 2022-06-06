@@ -144,7 +144,7 @@ key.unicode: du 0
 ;; 1: Reboot.
 centry: db 0
 
-start_msg du "KessSysInfo v0.0.5", 0xD, 0xA, 0
+start_msg du "ShutdownAndReboot v0.0.5", 0xD, 0xA, 0
 entry0: du "-> Shutdown", 0xD, 0xA, 0
 entry1: du "-> Reboot", 0xD, 0xA, 0
 selected_entry: dd 0

@@ -1,5 +1,5 @@
 BUILDDIR = in
-PROGRAMNAME = KessSysInfo
+PROGRAMNAME = ShutdownAndReboot
 OVMFDIR = OVMFbin
 
 all:
